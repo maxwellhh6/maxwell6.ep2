@@ -89,14 +89,14 @@ body {
 }
 
 .author-container {
-  color: rgb(180, 180, 180);
+  color: rgb(44, 42, 42);
   font-size: 1rem;
   font-weight: 400;
   letter-spacing: 0.5px;
 }
 
 .author-container span {
-  color: #e2c28b;
+  color: #575654;
   font-weight: 500;
 }
 
